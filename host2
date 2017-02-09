@@ -1,0 +1,27 @@
+# Ansible host file to map the host IP Address
+
+
+#Project: webapp-aws
+
+[webappserver]
+54.200.138.145
+
+
+[dbappserver]
+100.0.20.124
+
+
+
+
+
+
+
+
+
+
+#Project: awsprovisioning
+
+[nkvwebserver]
+
+
+[nkvdbserver]
